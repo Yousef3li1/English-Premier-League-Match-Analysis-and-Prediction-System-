@@ -1,12 +1,6 @@
 # 🏆 English Premier League Match Analysis and Prediction System 🏆
 
-**Developers:**  
-- Mohamed Helmy (20102540)  
-- Yousef Ali (20101108)  
 
-**Supervisor:**  
-- Dr. Essam Seddik  
-- Eng. Aya Mohamed  
 
 ---
 
@@ -15,10 +9,6 @@ This project explores the match day statistics of the **2021-2022 English Premie
 
 The system is backed by interactive data dashboards, CSV data processing, and predictive models to enhance understanding and forecasting of game results.
 
----
-
-## 📊 Data Source  
-We use the **2021-2022 English Premier League Match Data** available on **[Kaggle](https://www.kaggle.com/datasets/evangower/premier-league-match-data)**.
 
 ---
 
@@ -39,14 +29,7 @@ We use the **2021-2022 English Premier League Match Data** available on **[Kaggl
 
 ---
 
-## 🚀 How to Run the Project  
 
-### 1. **Data Exploration**  
-Open and run `code.ipynb` to explore match statistics, clean the dataset, and visualize important patterns.
-
-
-bash
-jupyter notebook code.ipynb
 ## 📚 Key Features  
 
 - **Data Exploration:** Analyze match outcomes, team stats, and referee decisions.  
@@ -69,8 +52,7 @@ We implemented the **Naive Bayes classifier**, a probabilistic machine learning 
    - Training the Naive Bayes model on match statistics  
    - Testing its performance  
 
-3. **Saving Predictions**  
-   - Predicted outcomes for the test dataset are saved to `prediction.csv`.  
+
 
 ---
 
@@ -81,4 +63,3 @@ We implemented the **Naive Bayes classifier**, a probabilistic machine learning 
 - **Top goal-scoring teams**  
 - **Impact of referees** on match outcomes  
 
-To explore, open `Dashboard.pbix` using **Power BI Desktop**.
